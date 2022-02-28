@@ -1,7 +1,7 @@
 <h1>NEW GAME🥽</h1>
 <%= @letters %>
 <h2>What's the longest word you can find?</h2>
-<form action="/score" method="post">
+<form action="score" method="post">
   <input type="hidden" name="letters" value="<%= @letters.join %>">
   <input type="text" name="guess" placeholder="🤔?">
   <input type="submit">
