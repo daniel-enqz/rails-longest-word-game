@@ -1,7 +1,7 @@
 # Simple Rails App Where users need to select the longest english word posible out from a random set of letters in a GRID
 ## Main App Features
-> A user word was checked with different tests and received a score depending on the length of the word.
-> The word was also checked to be an english word by parsing a JSON file.
+> A user word was checked with different tests and received a score depending on the length of the word. <br>
+> The word was also checked to be an english word by parsing a JSON file.<br>
 ![image](https://user-images.githubusercontent.com/72522628/158726577-9e2aab03-62d7-4e4b-bf23-f9642f799d00.png)
 
 `routes.rb`
