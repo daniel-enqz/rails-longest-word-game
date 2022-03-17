@@ -71,8 +71,8 @@ end
 ## Setup
 
 ```shell
- git clone git@github.com:daniel-enqz/rails-task-manager.git
- cd rails-task-manager
+ git clone git@github.com:daniel-enqz/rails-longest-word-game.git
+ cd rails-longest-word-game
  rails db:create db:migrate db:seed:replant
  bundle install
  yarn install
